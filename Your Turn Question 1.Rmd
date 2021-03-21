@@ -1,0 +1,8 @@
+---
+title: "Your Turn Question 1"
+author: "Jackson Tak"
+date: "3/21/2021"
+output: html_document
+---
+
+Hello, my name is Jackson Tak. I'm a senior majoring Economics & AMS. 
