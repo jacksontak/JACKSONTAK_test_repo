@@ -6,3 +6,9 @@ output: html_document
 ---
 
 Hello, my name is Jackson Tak. I'm a senior majoring Economics & AMS. 
+
+```{r}
+# Random R Chunk
+51+52
+```
+
